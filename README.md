@@ -31,11 +31,12 @@ Setting ```"remoteUser": "root"``` does "resovle" the issue, but that is itself 
 
 ### System information
 
-* __Docker Desktop Version:__ 4.26.0 (130397)
-* __Engine:__ 24.0.7
-* __Compose:__ v2.23.3-desktop.2
-* __Credential Helper:__ v0.7.0
-* __K8s:__ v1.28.2
+* __Docker Desktop__
+  * __Version:__ 4.26.0 (130397)
+  * __Engine:__ 24.0.7
+  * __Compose:__ v2.23.3-desktop.2
+  * __Credential Helper:__ v0.7.0
+  * __K8s:__ v1.28.2
 
 * __VS Code:__
   * Version: 1.84.2
